@@ -35,3 +35,6 @@ router.put('/:id', (req, res, next) => {
 router.delete('/:id', clientesController.eliminarCliente);
 
 module.exports = router;
+
+
+//prueba2
